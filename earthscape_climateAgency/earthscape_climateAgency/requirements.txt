@@ -1,0 +1,9 @@
+flask
+flask_pymongo
+pymongo
+pandas
+google-generativeai
+werkzeug
+scikit-learn
+flask-mail
+requests
